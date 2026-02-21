@@ -136,83 +136,10 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      username: me-zh   
       title: 演出與經歷
       date_format: Jan 2006
-      items:
-        - title: 歌劇《唐卡洛》選曲（女中音）｜與交響樂團合作
-          company: 國立高雄師範大學交響樂團
-          company_url: ''
-          company_logo: ''
-          location: 衛武營音樂廳
-          date_start: '2026-01-01'
-          date_end: ''
-          description: |2-
-            * 舞台演出：歌劇《唐卡洛》選曲
-            * 以戲劇張力與聲線層次建立角色語言，並完成與樂團的精準呼吸與速度整合
-        - title: 受邀演唱〈春日的貢多拉〉｜《領略聲音之美》
-          company: 上海銀行
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2026-01-01'
-          date_end: ''
-          description: |2-
-            * 系列邀演：以語句連貫與抒情長線條塑造作品畫面
-        - title: 《紫羅蘭永恆花園》交響音樂會｜合音歌手
-          company: 高雄市管樂團
-          company_url: ''
-          company_logo: ''
-          location: 高雄至德堂
-          date_start: '2026-01-01'
-          date_end: ''
-          description: |2-
-            * 合作演出：強調聲部融合、音色平衡與合奏準確度
-        - title: Johann Strauss II 歌劇《蝙蝠》｜飾 Orlofsky
-          company: 中華民國聲樂家協會
-          company_url: ''
-          company_logo: ''
-          location: 國家演奏廳
-          date_start: '2025-01-01'
-          date_end: '2025-12-31'
-          description: |2-
-            * 角色演出：Orlofsky（角色性格鮮明、語氣與節奏要求高）
-            * 在舞台節奏、台詞語感與角色肢體上完成一致的表演邏輯
-        - title: 「聲聲相續」第 25 屆新秀音樂會｜獨唱演出
-          company: 中華民國聲樂家協會
-          company_url: ''
-          company_logo: ''
-          location: 國家演奏廳
-          date_start: '2025-01-01'
-          date_end: '2025-12-31'
-          description: |2-
-            * 舞台呈現：以語意詮釋為核心，展現成熟線條與穩定音色控制
-        - title: 「協奏曲之夜」｜演唱者
-          company: 國立高雄師範大學 音樂學系
-          company_url: ''
-          company_logo: ''
-          location: 高雄
-          date_start: '2025-01-01'
-          date_end: '2025-12-31'
-          description: |2-
-            * 擔綱演出：強化結構掌控與合作互動（與伴奏/樂團呼吸一致）
-        - title: 《白水》｜歌隊演出
-          company: 臺灣豫劇團、秀琴歌劇團
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2025-01-01'
-          date_end: '2025-12-31'
-          description: |2-
-            * 參與製作：累積大型排練流程、舞台默契與製作紀律
-        - title: 台積電母親節音樂會｜受邀演出
-          company: 台積電
-          company_url: ''
-          company_logo: ''
-          location: ''
-          date_start: '2024-01-01'
-          date_end: '2024-12-31'
-          description: |2-
-            * 音樂會演出：累積大型活動舞台經驗與觀眾溝通能力
+    
     design:
       columns: '1'
       background:
