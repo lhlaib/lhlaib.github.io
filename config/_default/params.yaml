@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "LYNN LAI"
+    name: "Lin-Ling Lai"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -35,7 +35,7 @@ hugoblox:
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: 
-      light: "minimal"   # Clean GitHub style for day
+      light: "retro"   # Clean GitHub style for day
       dark: "dracula"    # Bold colors for night
     # Optional: Override theme pack colors
     colors:

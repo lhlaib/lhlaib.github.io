@@ -7,9 +7,9 @@ name:
   family: 賴
 postnominals: []
 status:
-  icon: "🎤"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+  icon: ""  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
 role: 女中音 Mezzo-Soprano
-email: alex@example.com
+email: lynn132427@gmail.com
 bio: |
 
   賴林鈴，女中音聲樂家。她相信，真正動人的演唱，不在於炫技，而在於聲音是否能承載情感與語意。她的音色溫潤厚實，沉穩而具穿透力，總以真切而自然的方式，讓旋律貼近人心。無論在歌劇舞台或藝術歌曲的演繹中，她始終以語句的邏輯與情感的流動為核心，讓聲線隨角色與文本而轉化。她期望將音樂的精髓融入歌聲，使聽者不僅聽見音符，更能感受作品背後的思想與溫度。
@@ -23,17 +23,26 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
-    label: 演出邀約／合作聯繫
-  - icon: brands/youtube
-    url: ''
-    label: 演出精選影片
-  - icon: brands/instagram
-    url: ''
-    label: 排練與舞台日常
+    url: mailto:lynn132427@gmail.com
   - icon: brands/facebook
-    url: ''
-    label: 官方公告
+    url: https://www.facebook.com/lynn.lai.799116
+  - icon: brands/youtube
+    url: https://www.youtube.com/@%E8%B3%B400-g8o
+
+
+# links:
+#   - icon: at-symbol
+#     url: mailto:alex@example.com
+#     label: 演出邀約／合作聯繫
+#   - icon: brands/youtube
+#     url: ''
+#     label: 演出精選影片
+#   - icon: brands/instagram
+#     url: ''
+#     label: 排練與舞台日常
+#   - icon: brands/facebook
+#     url: ''
+#     label: 官方公告
 
 interests:
   - 歌劇角色塑造（戲劇性與聲線整合）
@@ -42,10 +51,20 @@ interests:
   - 新作品排練與節目策劃
 
 education:
+  - degree: 音樂學系 碩士（主修聲樂）
+    institution: 國立高雄師範大學
+    start: 2025-09-01
+    summary: |
+        師事湯慧茹教授。求學期間參與多場國際大師班，接受 Christoph Prégardien、Vladimir Chernov、Olga Toporkova 等指導。
+        以舞台實作與曲目研磨並重，建立兼具音色品質、語意詮釋與合作能力的演唱基礎。
+    button:
+        text: 下載演出簡介（PDF）
+        url: uploads/簡介.pdf
+        icon: download
   - degree: 音樂學系（主修聲樂）
     institution: 國立高雄師範大學
     start: 2021-09-01
-    end: 2021-09-10
+    end: 2025-09-01
     summary: |
       師事湯慧茹教授。求學期間參與多場國際大師班，接受 Christoph Prégardien、Vladimir Chernov、Olga Toporkova 等指導。
       以舞台實作與曲目研磨並重，建立兼具音色品質、語意詮釋與合作能力的演唱基礎。
@@ -55,60 +74,104 @@ education:
       icon: download
 
 experience:
-  - role: 女中音｜歌劇《唐卡洛》選曲（與交響樂團合作）
+  - role: 《獲獎》藝術歌曲組 第二名
+    org: 《楊曾億妹：育才聲樂大賽》
+    start: 2025
+    end: 2025
+    # summary: |
+    #   於《楊曾億妹：育才聲樂大賽》藝術歌曲組獲得第二名。
+    #   以精準的語句處理、細膩的詩意詮釋與風格掌握，展現對藝術歌曲的深刻理解與表現力，獲得評審的高度評價與認可。
+  - role: 《獲獎》2025「朱崇𪃸新秀獎學金」新秀
+    org: 中華民國聲樂家協會
+    start: 2025
+    end: 2025
+    # summary: |
+    #   獲選為 2025 中華民國聲樂家協會「朱崇𪃸新秀獎學金」新秀。
+    #   以持續精進的演唱實力與積極參與的舞台經驗，獲得聲協評審的肯定與支持，成為協會新秀獎學金的得主。
+  - role: 《獲獎》女中低音組（大專 A 組）特優第一名
+    org: 全國學生音樂比賽
+    start: 2024
+    end: 2024
+    # summary: |
+    #   於全國學生音樂比賽女中低音組（大專 A 組）獲特優第一名。
+    #   以穩定的聲線控制、細膩的語句詮釋與舞台表現，獲得評審高度肯定。
+  - role: 《獲獎》Second Prize Award
+    org: Medici International Music Competition
+    start: 2024
+    end: 2024
+    # summary: |
+    #   於 Medici International Music Competition 獲得 Second Prize。
+    #   以多元曲目詮釋展現語句處理、風格掌握與戲劇性的能力，獲得國際評審的認可。
+  
+  - role: 《獲獎》「協奏曲」選拔優勝
+    org: 國立高雄師範大學 音樂學系
+    start: 2024
+    end: 2024
+    # summary: |
+    #   於國立高雄師範大學「協奏曲」選拔中獲優勝，成為系上「協奏曲之夜」演出歌者。
+    #   以精準的樂句處理、與伴奏的默契配合與舞台表現，獲得評審的高度評價，成功爭取到演出機會。
+  - role: 《獲獎》女中低音組（大專 A 組）特優第一名
+    org: 全國學生音樂比賽 高雄市賽 
+    start: 2023
+    end: 2023
+    # summary: |
+    #   於全國學生音樂比賽高雄市賽女中低音組（大專 A 組）獲特優第一名。
+    #   以穩定的聲線控制、細膩的語句詮釋與舞台表現，獲得評審高度肯定，成功晉級全國賽。
+  
+  - role: 演出｜歌劇《唐卡洛》選曲（與交響樂團合作）
     org: 國立高雄師範大學交響樂團｜衛武營音樂廳
     start: 2023-01-01
     end: 2023-01-01
-    summary: |
-      於衛武營音樂廳登台，與交響樂團合作演唱歌劇《唐卡洛》選曲。
-      著重戲劇張力與聲線層次，展現舞台角色導向的詮釋能力。
+    # summary: |
+    #   於衛武營音樂廳登台，與交響樂團合作演唱歌劇《唐卡洛》選曲。
+    #   著重戲劇張力與聲線層次，展現舞台角色導向的詮釋能力。
   - role: 受邀演唱｜《領略聲音之美》〈春日的貢多拉〉
     org: 上海銀行
     start: 2024-01-01
     end: 2024-01-01
-    summary: |
-      受邀於《領略聲音之美》系列演出〈春日的貢多拉〉。
-      以語句流動、呼吸支撐與抒情線條，塑造作品的畫面感與敘事性。
+    # summary: |
+    #   受邀於《領略聲音之美》系列演出〈春日的貢多拉〉。
+    #   以語句流動、呼吸支撐與抒情線條，塑造作品的畫面感與敘事性。
   - role: 合作演出｜《紫羅蘭永恆花園》交響音樂會（合音歌手）
     org: 高雄市管樂團｜高雄至德堂
     start: 2025-01-01
     end: 2025-01-01
-    summary: |
-      參與《紫羅蘭永恆花園》交響音樂會，擔任合音歌手。
-      以聲部融合、音色平衡與合奏精準度完成舞台呈現。
+    # summary: |
+    #   參與《紫羅蘭永恆花園》交響音樂會，擔任合音歌手。
+    #   以聲部融合、音色平衡與合奏精準度完成舞台呈現。
   - role: 歌劇演出｜Johann Strauss II《蝙蝠》飾 Orlofsky
     org: 中華民國聲樂家協會｜國家演奏廳
     start: 2026-01-01
     end: 2026-01-01
-    summary: |
-      參與聲協主辦歌劇《蝙蝠》於國家演奏廳演出，飾演 Orlofsky 一角。
-      在角色性格、台詞語氣與舞台節奏上建立強烈辨識度。
+    # summary: |
+    #   參與聲協主辦歌劇《蝙蝠》於國家演奏廳演出，飾演 Orlofsky 一角。
+    #   在角色性格、台詞語氣與舞台節奏上建立強烈辨識度。
   - role: 獨唱演出｜「聲聲相續」第 25 屆新秀音樂會
     org: 中華民國聲樂家協會｜國家演奏廳
     start: 2026-01-01
     end: 2026-01-01
-    summary: |
-      於國家演奏廳登台演出新秀音樂會。
-      以作品敘事與語意詮釋為核心，呈現成熟的音樂線條與舞台穩定度。
+    # summary: |
+    #   於國家演奏廳登台演出新秀音樂會。
+    #   以作品敘事與語意詮釋為核心，呈現成熟的音樂線條與舞台穩定度。
   - role: 演唱者｜「協奏曲之夜」
     org: 國立高雄師範大學 音樂學系
     start: 2025-01-01
     end: 2025-12-31
-    summary: |
-      擔綱系上「協奏曲之夜」演出。
-      強化與伴奏/樂團的呼吸一致性與段落結構掌控。
+    # summary: |
+    #   擔綱系上「協奏曲之夜」演出。
+    #   強化與伴奏/樂團的呼吸一致性與段落結構掌控。
   - role: 歌隊演出｜《白水》
     org: 臺灣豫劇團、秀琴歌劇團
     start: 2025-01-01
     end: 2025-12-31
-    summary: |
-      參與《白水》歌隊演出，累積大型製作排練流程與舞台合作默契。
+    # summary: |
+    #   參與《白水》歌隊演出，累積大型製作排練流程與舞台合作默契。
   - role: 受邀演出｜台積電母親節音樂會
     org: 台積電
     start: 2024-01-01
     end: 2024-12-31
-    summary: |
-      受邀參與音樂會演出，累積商演與大型活動舞台經驗。
+    # summary: |
+    #   受邀參與音樂會演出，累積商演與大型活動舞台經驗。
 
 skills:
   - name: Vocal Profile

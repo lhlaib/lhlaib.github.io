@@ -30,8 +30,8 @@ sections:
         delete_speed: 40
         pause_time: 2500
       cta_buttons:
-        - text: 觀看精選舞台
-          url: "#projects"
+        - text: 觀看精選演出
+          url: "#performances"
           icon: arrow-down
         - text: 邀演／合作洽詢
           url: "#contact"
@@ -49,27 +49,27 @@ sections:
 
   # Filterable Portfolio - Alpine.js powered project filtering
   - block: portfolio
-    id: projects
+    id: performances
     content:
-      title: "精選舞台"
+      title: "精選演出"
       subtitle: "歌劇｜音樂會｜合作演出｜競賽亮點"
       count: 0
       filters:
         folders:
-          - projects
+          - performances
       buttons:
         - name: 全部
           tag: '*'
         - name: 歌劇
-          tag: Opera
+          tag: 歌劇
         - name: 音樂會
-          tag: Concert
+          tag: 音樂會
         - name: 藝術歌曲
-          tag: ArtSong
+          tag: 藝術歌曲
         - name: 合作演出
-          tag: Collaboration
+          tag: 合作演出
         - name: 競賽
-          tag: Competition
+          tag: 競賽
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -137,7 +137,7 @@ sections:
     id: experience
     content:
       username: me-zh   
-      title: 演出與經歷
+      title: 獲獎與競賽亮點
       date_format: Jan 2006
     
     design:
@@ -148,6 +148,8 @@ sections:
           dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
+
+
 
   # Recent Blog Posts
   - block: collection
@@ -176,6 +178,7 @@ sections:
   - block: contact-info
     id: contact
     content:
+      username: me-zh
       title: 邀演／合作洽詢
       subtitle: "歌劇製作｜音樂會與藝文活動｜校園與機構邀演｜媒體合作"
       text: |-
@@ -183,7 +186,7 @@ sections:
         若您有節目策劃、演出邀約、試唱需求或合作企劃，歡迎來信聯繫。
         
         我可提供演出簡介、曲目單、影片連結與排練需求資訊，並與指揮／伴奏／製作團隊快速對齊音樂方向。
-      email: alex@example.com
+      email: lynn132427@gmail.com
       autolink: true
     design:
       columns: '1'

@@ -592,7 +592,7 @@
   translation: 文件
 
 - id: experience
-  translation: 經驗
+  translation: 獲獎與經歷
 
 - id: read_more
   translation: 閱讀更多
@@ -601,7 +601,7 @@
   translation: 精選
 
 - id: block_contact_follow_me
-  translation: 在這裡找到我
+  translation: 👉 Follow me / 追蹤我
 
 - id: portfolio_link_code
   translation: 程式碼
