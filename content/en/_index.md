@@ -14,7 +14,7 @@ sections:
   - block: dev-hero
     id: hero
     content:
-      username: me
+      username: me-en
       greeting: "Hi, I'm"
       show_status: true
       show_scroll_indicator: true
